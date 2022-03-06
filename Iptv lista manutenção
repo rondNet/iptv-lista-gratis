@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo"" group-title="ABERTO",GLOBO MG
+http://168.205.87.198:8555/live/anselmo/123456/70.m3u8 
+
+#EXTINF:-1 tvg-logo"" group-title="ABERTO",RECORD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8 
+
+#EXTINF:-1 tvg-logo"" group-title="ABERTO",SBT INTERIOR
+https://5a1c76baf08c0.streamlock.net/sbtinterior/0ynv6z5ll53elyvk08sirzo4xi0qp4ji/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo"" group-title="NOTÍCIAS",CNN BRASIL
+https://cdn.esporteone.com/CNNBRASILSD/video.m3u8?md5=dBJs810gupKqwyaXdneICw&expires=1646525130 
+
+#EXTINF:-1 tvg-logo"" group-title="ESPORTES",PREMIERE 
+https://cdn.esporteone.com/PREMIERECLUBESSD/video.m3u8?md5=zXmRWppDutO-DessbL58lA&expires=1646525324 
+
+#EXTINF:-1 tvg-logo"" group-title="ESPORTES",ESPN
+https://cdn.esporteone.com/ESPNSD/video.m3u8?md5=GygYO2auymk8qWdKeeEyDQ&expires=1646525571 
+
+#EXTINF:-1 tvg-logo"" group-title="ABERTO",BAND
+https://cdn.esporteone.com/BANDSD/video.m3u8?md5=5jsAkR5J1g0i90s5qU3vDQ&expires=1646525190 
+
+#EXTINF:-1 tvg-logo"" group-title="ESPORTES",FOX SPORTS
+https://cdn.esporteone.com/FOXSPORTSSD/video.m3u8?md5=o6AQf0gmrml2QUTo7U4bsQ&expires=1646525449 
+
+#EXTINF:-1 tvg-logo"" group-title="INFANTIL",DISCOVERY KIDS
+https://cdn.esporteone.com/DISCOVERYKIDSSD/video.m3u8?md5=kQOhIJPdxpKv0ffQhh67Jw&expires=1646525618 
+
+#EXTINF:-1 tvg-logo"" group-title="BBB 22",ACOMPANHE A CASA
+https://cdn.esporteone.com/BIGBIG1HD/video.m3u8?md5=OoW3UV7GvBhLNQYsoIICNg&expires=1646525693
